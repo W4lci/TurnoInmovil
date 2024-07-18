@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TurnoInmóvil</string>
+    <string name="inicio">La espera infinita</string>
+    <string name="comenzar">Comenzar a Generar Turnos</string>
+
+    <!-- ACTIVITY CON LA LISTA DE TURNOS -->
+
+    <string name="turno">TURNO ACTUAL</string>
+    <string name="turnoSig">TURNO SIGUIENTE</string>
+    <string name="turnoAnt">TURNO ANTERIOR</string>
+    <string name="sig">Siguiente</string>
+    <string name="AggNuevo">Agregar Nuevo Turno</string>
+
+    <!-- ACTIVITY PARA AGREGAR CEDULA-->
+    <string name="espera">Agrega a la proxima persona que se verá así ☝️</string>
+    <string name="AggCedula">CEDULA</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Lista">Lista de Turnos</string>
+    <string name="Turnos">Turnos</string>
+
+    <!-- ACTIVITY DE LA LISTA DE TURNOS -->
+    <string name="turnos">LISTA DE TURNOS ACTUALES</string>
+    <string name="clean">Limpiar</string>
+</resources>

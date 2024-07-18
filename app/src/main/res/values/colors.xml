@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_navy">#FF011F4B</color>
+    <color name="dark_crimson">#FF610B21</color>
+    <color name="forest_green_dark">#FF013220</color>
+    <color name="midnight_blue">#FF003366</color>
+    <color name="charcoal_gray">#FF36454F</color>
+    <color name="aubergine">#FF3B0A45</color>
+    <color name="dark_olive">#FF3C3D23</color>
+    <color name="deep_teal">#FF00353E</color>
+    <color name="burnt_sienna">#FF320F05</color>
+    <color name="rich_black">#FF0B0C10</color>
+
+    <color name="background1">#004d79</color>
+    <color name="background2">#340f33</color>
+    <color name="backgroundCentro">#001e41</color>
+</resources>
